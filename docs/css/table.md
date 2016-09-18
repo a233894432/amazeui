@@ -261,12 +261,12 @@
   </tr>
   <tr>
     <td class="am-danger">.am-danger</td>
-    <td>橙色高亮</td>
+    <td>红色高亮</td>
     <td>td</td>
   </tr>
   <tr class="am-danger">
     <td>.am-danger</td>
-    <td>橙色高亮</td>
+    <td>红色高亮</td>
     <td>tr</td>
   </tr>
   </tbody>
